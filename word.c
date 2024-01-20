@@ -4,5 +4,6 @@
 
 int main()
 {
-  printf("Hello World!\n);
+  int a = 10;
+  printf("Hello World! %d\n, a);
 }
